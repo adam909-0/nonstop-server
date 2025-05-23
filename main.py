@@ -20,7 +20,7 @@ except Exception as e:
     exit()
 
 # ---------- SET THREAD ID FOR GROUP CHAT ----------
-group_thread_id = "340282366841710300949128162360327123456"  # Replace with actual thread ID
+group_thread_id = "9694639830661817"  # Replace with actual thread ID
 delay_seconds = 12  # Time delay between messages
 
 # ---------- SEND MESSAGES TO GROUP CHAT ----------
